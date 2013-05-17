@@ -7,7 +7,7 @@ using namespace std;
 class Date
 {
 private:
-  int  AMonth;
+	int  AMonth;
 	int day;
 	int year;
 public:
@@ -19,14 +19,15 @@ public:
 	}
 	int getDate()
 	{ 
+		cout<<AMonth<<day<<year;
 
-		return AMonth;
+		return 0;
 	}
 
 
 		void DisplayDate()
 		{
-			cout<<"DisplayDate: " <<getDate();
+			cout<<"Display: " << getDate();
 
 		}
 	};

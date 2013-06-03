@@ -1,0 +1,11 @@
+10
+LADIE’S_NIGHT 0 1 0 1 0 0 0
+LIFE_ON_CREDIT 1 0 0 0 1 0 0
+Natalka_Poltavka 1 0 0 0 0 1 0
+Svejk 0 1 0 0 0 1 1
+MARRIAGE_OF_FIGARO 0 1 0 0 0 0 1
+sentimentality_CRUISE 0 0 1 0 1 0 0
+DREAM_funny_man 1 0 1 0 0 1 0
+MARTIN_Borulya 1 1 0 0 0 0 1
+HOW_NOT_TO_LOVE_YOU,KIEV_MY! 1 0 0 1 0 1 1
+Kvitka_Budyakov_PREM'ЄRA! 0 1 0 1 0 0 0

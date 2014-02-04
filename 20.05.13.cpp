@@ -1,3 +1,5 @@
+Алексей! Выложи плиз свой код класса;
+
 #include "stdafx.h"
 #include <iostream>
 #include <conio.h>
